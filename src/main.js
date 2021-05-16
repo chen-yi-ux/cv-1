@@ -19,7 +19,7 @@ let string = `
     box-shadow: 0 0 3px rgba(0,0,0,0.5);
     border: none;
 }
-/* 八卦是阴阳行程的
+/* 八卦是阴阳形成的
  * 一黑一白
  */
 #div1{
